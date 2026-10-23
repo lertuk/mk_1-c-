@@ -30,6 +30,7 @@ int main() {
                 sum += matrix[i][j];
                 count++;
             }
+            
         }
 
         if (count > 0) {
